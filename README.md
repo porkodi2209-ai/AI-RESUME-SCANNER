@@ -1,103 +1,146 @@
-# AI-RESUME-SCANNER USING STREAMLIT
- Introduction
-This project is a web-based application that analyzes resumes using Python. It helps users understand how well their resume matches industry requirements by extracting skills and calculating an ATS score.
+# AI Resume Analyzer with OCR
 
-Objective
-The main objective of this project is:
+## Overview
 
-To automate resume analysis
+AI Resume Analyzer with OCR is a web-based application that analyzes resumes in both PDF and image formats. The system uses Optical Character Recognition (OCR) to extract text from scanned resumes and evaluates the resume against role-specific skill requirements.
 
-To identify important technical skills
+The application calculates an ATS (Applicant Tracking System) score, identifies matching skills, and highlights missing skills required for a selected job role.
 
-To calculate ATS score
+---
 
-To suggest missing skills for improvement
+## Features
 
- How it Works (VERY IMPORTANT)
- Step-by-step flow:
+- Upload resumes in PDF format
+- Upload scanned resumes as images (JPG, JPEG, PNG)
+- OCR-based text extraction using Tesseract
+- Role-specific resume analysis
+- ATS score calculation
+- Skill matching and missing skill detection
+- User-friendly Streamlit interface
 
-User uploads a resume (PDF)
+---
 
-System reads the PDF file
+## Technologies Used
 
-Text is extracted from the resume
+- Python
+- Streamlit
+- PDFPlumber
+- PyTesseract
+- Pillow (PIL)
+- OCR (Optical Character Recognition)
 
-Predefined skills are checked
+---
 
-Skills are categorized into:
+## Supported Job Roles
 
-Found skills 
+### Data Scientist
+- Python
+- SQL
+- Machine Learning
+- Data Science
+- Pandas
+- NumPy
 
-Missing skills 
+### Web Developer
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
 
-ATS score is calculated
+### Java Developer
+- Java
+- Spring
+- MySQL
+- Hibernate
 
-Results are displayed on the website
+### Python Developer
+- Python
+- Django
+- Flask
+- SQL
+- Git
 
- Core Logic
- The system uses:
+---
 
-PDF text extraction using pdfplumber
+## System Workflow
 
-String matching to detect skills
+1. User selects a target job role.
+2. User uploads a resume (PDF or Image).
+3. The system extracts text from the resume.
+4. OCR is applied for scanned image resumes.
+5. Extracted content is analyzed against role-specific skills.
+6. ATS score is calculated.
+7. Matching and missing skills are displayed.
 
-Basic scoring algorithm
+---
 
-ATS Score Formula:
+## Installation
 
-(score = found skills / total skills) × 100
-Technologies Used
-Python → Programming language
+### Clone Repository
 
-Streamlit → For web interface
+```bash
+git clone <repository-url>
+cd resume-ai
+```
 
-pdfplumber → To read PDF content
+### Install Dependencies
 
- Features
-Upload resume
+```bash
+pip install -r requirements.txt
+```
 
-Extract text automatically
+### Run Application
 
-Detect technical skills
+```bash
+streamlit run app.py
+```
 
- Calculate ATS score
+---
 
-Show missing skills
+## Requirements
 
- Limitations (Say this to sound smart)
-Works only for text-based PDFs
+```txt
+streamlit
+pdfplumber
+pytesseract
+pillow
+```
 
-Cannot read scanned/image resumes
+---
 
-Uses predefined skills list only
+## Project Structure
 
- Future Enhancements (VERY IMPRESSIVE)
-You can say:
-
-Add OCR (Tesseract) for scanned resumes
-
-Add AI-based suggestions using NLP
-
-Add job description matching
-
-Improve UI/UX design
-
-Deploy as a live web application
-
- Real-World Application
-Used by HR systems (ATS)
-
-Helps job seekers improve resumes
-
-Can be integrated into job portals
-
- Project Structure
+```text
 resume-ai/
 │
 ├── app.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── sample_resume.pdf
+```
 
+---
 
- Conclusion
-This project demonstrates how AI concepts can be applied to real-world problems like resume screening. It improves efficiency and helps users enhance their job readiness.
+## Future Enhancements
+
+- AI-powered resume recommendations
+- Resume ranking system
+- Job description matching
+- Resume improvement suggestions
+- Skill gap analysis
+- Resume keyword optimization
+
+---
+
+## Conclusion
+
+This project demonstrates the application of OCR and ATS-based resume evaluation techniques to automate resume screening. The system helps candidates understand how well their resumes align with specific job roles and provides insights into missing skills that can improve employability.
+
+---
+
+## Developed By
+
+Porkodi
+
+Department of Computer Science and AI
