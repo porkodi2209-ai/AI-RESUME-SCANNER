@@ -7,7 +7,7 @@ AI Resume Analyzer with OCR is a web-based application that analyzes resumes in 
 The application calculates an ATS (Applicant Tracking System) score, identifies matching skills, and highlights missing skills required for a selected job role.
 
 ---
-Problem Statement
+## Problem Statement
 
 Many job seekers find it difficult to know whether their resumes meet the requirements of a specific job role. Recruiters use Applicant Tracking Systems (ATS) to filter resumes based on relevant skills and keywords. Manually checking resumes for ATS compatibility is time-consuming and inefficient.
 
