@@ -141,6 +141,7 @@ https://github.com/porkodi2209-ai/AI-RESUME-SCANNER/issues/1
 
 ## Improvement Needed Resume
 
+<img width="530" height="745" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/d680e802-8293-4cc3-b8db-6f3bf95bb110" />
 
 <img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/9b12d7c3-5a97-40e6-a0f9-364142ac18d1" />
 
