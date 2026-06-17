@@ -131,7 +131,7 @@ https://github.com/porkodi2209-ai/AI-RESUME-SCANNER/issues/1
 ## Screenshots
 ## WEBSITE 
 
-<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/c98261e5-f522-4c38-9856-089afb2d7010" />
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/2b246496-bd05-42ce-b7c8-61d4b948cada" />
 
 ## Excellent Resume Result
 
