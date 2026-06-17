@@ -121,15 +121,25 @@ resume-ai/
 ```
 
 ---
+
 ## Live Demo
 
-🔗 Website Link: http://localhost:8501
+🔗 Website Link: https://ai-resume-scanner-h7pn4fiundme4p6mkxnjkh.streamlit.app
+
+https://github.com/porkodi2209-ai/AI-RESUME-SCANNER/issues/1
 
 ## Screenshots
+## WEBSITE 
+
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/c98261e5-f522-4c38-9856-089afb2d7010" />
+
 ## Excellent Resume Result
 
 <img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/b7e17611-9a36-4922-ae32-ddf291d9e385" />
 
+## Improvement Needed Resume
+
+<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/9b12d7c3-5a97-40e6-a0f9-364142ac18d1" />
 
 ## Future Enhancements
 
