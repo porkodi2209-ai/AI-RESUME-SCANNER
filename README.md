@@ -164,6 +164,6 @@ This project demonstrates the application of OCR and ATS-based resume evaluation
 
 ## Developed By
 
-Porkodi
+Porkodi K
 
 Department of Computer Science and AI
