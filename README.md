@@ -121,6 +121,15 @@ resume-ai/
 ```
 
 ---
+## Live Demo
+
+🔗 Website Link: http://localhost:8501
+
+## Screenshots
+## Excellent Resume Result
+
+<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/b7e17611-9a36-4922-ae32-ddf291d9e385" />
+
 
 ## Future Enhancements
 
