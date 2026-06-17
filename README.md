@@ -11,6 +11,8 @@ The application calculates an ATS (Applicant Tracking System) score, identifies 
 
 Many job seekers find it difficult to know whether their resumes meet the requirements of a specific job role. Recruiters use Applicant Tracking Systems (ATS) to filter resumes based on relevant skills and keywords. Manually checking resumes for ATS compatibility is time-consuming and inefficient.
 
+## Proposed Solution
+The AI Resume Analyzer with OCR provides an automated solution for resume evaluation. Users can upload resumes in PDF or image format, and the system extracts the text using PDF processing and OCR techniques. The extracted content is analyzed against role-specific skill requirements to calculate an ATS score, identify matching skills, and highlight missing skills. This helps candidates improve their resumes and increase their chances of being shortlisted.
 ## Features
 
 - Upload resumes in PDF format
