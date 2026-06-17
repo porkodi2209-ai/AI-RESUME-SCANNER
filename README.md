@@ -124,7 +124,7 @@ resume-ai/
 
 ## Live Demo
 
-🔗 Website Link: https://ai-resume-scanner-h7pn4fiundme4p6mkxnjkh.streamlit.app
+🔗 Website Link: http://localhost:8501
 ## Watch Demo
 https://github.com/porkodi2209-ai/AI-RESUME-SCANNER/issues/1
 
